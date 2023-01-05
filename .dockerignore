@@ -1,0 +1,10 @@
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
+*.sh
+*.php
+*.zip
+Dockerfile
+composer
+

@@ -1,0 +1,13 @@
+FROM thecodingmachine/php:8.0-v4-apache
+ENV REGION us-east-1
+ENV CLIENT_ID 6kau2ni4pr8nhb7p97ir4f3jcf
+ENV USERPOOL_ID us-east-1_qgMNOjluE
+ENV AWS_ACCESS_KEY_ID AKIAQQNRGIJSNTONDZMU
+ENV AWS_SECRET_ACCESS_KEY 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
+ENV AWS_DB_PASSWORD aLl6x9IX0NZpB577umWo
+ENV AWS_DB_HOSTNAME roms.cnsz6bvnzpif.us-east-1.rds.amazonaws.com
+ENV AWS_DB_USER admin
+ENV AWS_DB_NAME ROMS
+EXPOSE 80
+ENV PORT 80
+COPY ./ /var/www/html/

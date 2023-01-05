@@ -1,0 +1,4 @@
+FROM thecodingmachine/php:8.0-v4-slim-apache
+EXPOSE 80
+ENV PORT 80
+COPY ./ /var/www/html/

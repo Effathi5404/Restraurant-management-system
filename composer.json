@@ -1,0 +1,14 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.209",
+        "slim/slim": "3.*",
+        "phpunit/phpunit": "^9",
+        "daniel-zahariev/php-aws-ses": "^0.9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "AWSCognitoApp\\": "lib",
+            "ROMSLib\\": "lib"
+        }
+    }
+}
