@@ -69,4 +69,6 @@ Developers:
 4.Bhagyasshree
 
 
- [embed]https://waynestateprod-my.sharepoint.com/:b:/g/personal/hi5404_wayne_edu/EX6Yd8B-6HZGsOpTrRTkr3EB9Ys8Sltc02BI0i4AZXXdXw?e=vvwOK3[[/embed]
+Project report:
+
+ https://waynestateprod-my.sharepoint.com/:b:/g/personal/hi5404_wayne_edu/EX6Yd8B-6HZGsOpTrRTkr3EB9Ys8Sltc02BI0i4AZXXdXw?e=vvwOK3[[/embed]
